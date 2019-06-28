@@ -4,8 +4,8 @@ The objective of this project is to create a dynamic ELF library to replace (to 
 C library we use every day on our system.
 Use of dynamic library (weak binding).
 
-to launch:
+to launch (generate library):
     
-    - LD_PRELOAD
+    - make / make re
 
 Aymeric Astaing - EPITECH PARIS PROMO 2022
