@@ -1,0 +1,4 @@
+make re
+gcc -g tests/main.c ./libasm.so
+LD_PRELOAD=./libasm.so
+./a.out
