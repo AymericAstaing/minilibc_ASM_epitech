@@ -7,5 +7,6 @@ Use of dynamic library (weak binding).
 to launch (generate library):
     
     - make / make re
+    - find main in project, import one of minilib function prototype and call it from main or from where you want.
 
 Aymeric Astaing - EPITECH PARIS PROMO 2022
